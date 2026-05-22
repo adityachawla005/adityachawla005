@@ -14,10 +14,10 @@
  
 ## About Me
  
-- Currently building **Visus**
-- Exploring AI systems, autonomous workflows, and developer tooling
-- Interested in full-stack development, applied AI, and systems programming
-- Unhealthy Spotify Consumption
+- //Currently building **Visus**
+- //Exploring AI systems, autonomous workflows, and developer tooling
+- //Interested in full-stack development, applied AI, and systems programming
+- //Unhealthy Spotify Consumption
 
  
 ## Tech Stack
