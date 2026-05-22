@@ -1,4 +1,9 @@
 
+<p align="center">
+  <img src="cjit_donut_race.gif" alt="cjit donut race" />
+</p>
+
+
 <h1 align="center">Aditya Chawla</h1>
  
 
@@ -75,7 +80,7 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
----
+
  
 
 
