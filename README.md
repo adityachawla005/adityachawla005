@@ -6,21 +6,12 @@
 
 <h1 align="center">Aditya Chawla</h1>
  
-
-<p align="center">
-  Information Technology Student &nbsp;•&nbsp; AI Builder &nbsp;•&nbsp; Full Stack Developer
-</p>
-
- 
-## About Me
  
 // Manipal'27 <br>
 // Exploring AI systems, autonomous workflows, and developer tooling <br>
 // Interested in full-stack development, applied AI, and systems programming <br>
 // Contributing to Open Source!
 
- 
-## Achievements
  
 - **Finalist** — OpenAI Buildathon 2025
 - **Microsoft AI Unlocked** — Top 250
