@@ -14,7 +14,7 @@
  
 ## About Me
  
-// Manipal'27
+// Manipal'27 <br>
 // Exploring AI systems, autonomous workflows, and developer tooling <br>
 // Interested in full-stack development, applied AI, and systems programming <br>
 // Contributing to Open Source!
