@@ -14,8 +14,8 @@
 
  
 - **Finalist** — OpenAI Buildathon 2025
-- **Microsoft AI Unlocked** — Top 250
-- **Google Big Code 2026** — Top 1500
+- **Microsoft AI Unlocked** — Top 250 teams
+- **Google Big Code 2026** — Top 1500 students
 - **SAP HackFest'25** — Hub Round Finalist
 - **Hacktoberfest 2025** Contributor
 - **Amazon ML School 2026**
