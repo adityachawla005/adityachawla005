@@ -3,7 +3,6 @@
   <img src="cjit_donut_race.gif" alt="cjit donut race" />
 </p>
 
-
 <h1 align="center">Aditya Chawla</h1>
  
  
