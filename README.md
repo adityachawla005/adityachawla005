@@ -11,7 +11,6 @@
 // Exploring AI systems, autonomous workflows, and developer tooling <br>
 // Interested in full-stack development, applied AI, and systems programming <br>
 // Contributing to Open Source!
-
  
 - **Finalist** — OpenAI Buildathon 2025
 - **Microsoft AI Unlocked** — Top 250 teams
@@ -19,9 +18,6 @@
 - **SAP HackFest'25** — Hub Round Finalist
 - **Hacktoberfest 2025** Contributor
 - **Amazon ML School 2026**
-
-
-## Connect With Me
  
 <p>
   <a href="https://www.linkedin.com/in/aditya-chawla-88005a253">
