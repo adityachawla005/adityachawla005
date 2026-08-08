@@ -21,8 +21,6 @@
 - **Amazon ML School 2026**
 
 
- 
- 
 ## Connect With Me
  
 <p>
